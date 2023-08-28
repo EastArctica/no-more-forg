@@ -1,7 +1,7 @@
 {
-  "name": "plugin-template",
+  "name": "no-more-forg",
   "version": "1.0.0",
-  "description": "A plugin template",
+  "description": "A replugged plugin to remove forg from #off-topic",
   "engines": {
     "node": ">=18.0.0",
     "pnpm": ">=8.0.0"
@@ -20,8 +20,8 @@
     "lint:fix": "pnpm run prettier:fix && pnpm run eslint:fix"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "author": "East_Arctica",
+  "license": "MIT",
   "devDependencies": {
     "@types/node": "^18.17.6",
     "@typescript-eslint/eslint-plugin": "^5.62.0",
