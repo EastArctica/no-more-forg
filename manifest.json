@@ -7,7 +7,7 @@
     "discordID": "573613510060146708",
     "github": "EastArctica"
   },
-  "version": "1.0.0",
+  "version": "1.0.1",
   "updater": {
     "type": "store",
     "id": "ca.eastarcti.NoMoreForg"

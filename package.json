@@ -1,6 +1,6 @@
 {
   "name": "no-more-forg",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A replugged plugin to remove forg from #off-topic",
   "engines": {
     "node": ">=18.0.0",
