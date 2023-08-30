@@ -9,8 +9,8 @@
   },
   "version": "1.0.0",
   "updater": {
-    "type": "github",
-    "id": "EastArctica/no-more-forg"
+    "type": "store",
+    "id": "ca.eastarcti.NoMoreForg"
   },
   "license": "MIT",
   "type": "replugged-plugin",
