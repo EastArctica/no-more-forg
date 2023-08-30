@@ -16,5 +16,7 @@
   "type": "replugged-plugin",
   "renderer": "src/index.ts",
   "source": "https://github.com/EastArctica/no-more-forg",
-  "image": ["https://i.imgur.com/fc5q1kv.jpg"]
+  "image": [
+    "https://i.imgur.com/fc5q1kv.jpg"
+  ]
 }
